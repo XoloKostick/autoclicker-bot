@@ -21,7 +21,7 @@ Python 3.8 или выше
 Настройка
 
 Клонируйте репозиторий:
-git clone https://github.com/yourusername/autoclicker-bot.git
+git clone https://github.com/XoloKostick/autoclicker-bot.git
 cd autoclicker-bot
 
 
@@ -98,3 +98,4 @@ python ClickerBot.py
 
 
 Удачных кликов! 🖱️
+
